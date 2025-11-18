@@ -1,1 +1,1 @@
-service postgresql start
+service postgresql start && msfconsole -x "db_connect metasploit:exegol4thewin@localhost/metasploit"
